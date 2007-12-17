@@ -11,7 +11,6 @@ License: 	MIT
 Url:		http://www.dsm.fordham.edu/~ftnchek
 Source: 	ftp://ftp.dsm.fordham.edu/pub/ftnchek/%{name}-%{version}.tar.bz2
 Buildrequires:	groff groff-for-man 
-BuildRoot:	%{_tmppath}/%name-%version-root
 
 %description
 Ftnchek (short for Fortran checker) is designed to detect certain errors in a
