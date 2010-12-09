@@ -1,6 +1,6 @@
 %define name ftnchek
 %define	version 3.3.1
-%define release	%mkrel 5
+%define release	%mkrel 6
 
 Summary: Fortran 77 program checker
 Name: 		%{name}
