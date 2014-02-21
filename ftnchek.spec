@@ -1,7 +1,7 @@
 Summary:	Fortran 77 program checker
 Name:		ftnchek
 Version:	3.3.1
-Release:	7
+Release:	8
 License:	MIT
 Group:		Development/Other
 Url:		http://www.dsm.fordham.edu/~ftnchek
@@ -33,7 +33,7 @@ touch `find . -type f`
 
 %build
 %configure2_5x
-%make "OPTIONS=%{optflags}"
+make "OPTIONS=%{optflags}"
 cd test
 make
 
