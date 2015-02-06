@@ -1,7 +1,7 @@
 Summary:	Fortran 77 program checker
 Name:		ftnchek
 Version:	3.3.1
-Release:	8
+Release:	9
 License:	MIT
 Group:		Development/Other
 Url:		http://www.dsm.fordham.edu/~ftnchek
