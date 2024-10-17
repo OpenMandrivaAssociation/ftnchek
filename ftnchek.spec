@@ -4,7 +4,7 @@ Version:	3.3.1
 Release:	9
 License:	MIT
 Group:		Development/Other
-Url:		http://www.dsm.fordham.edu/~ftnchek
+Url:		https://www.dsm.fordham.edu/~ftnchek
 Source:		ftp://ftp.dsm.fordham.edu/pub/ftnchek/%{name}-%{version}.tar.bz2
 Buildrequires:	groff
 Buildrequires:	groff-for-man
