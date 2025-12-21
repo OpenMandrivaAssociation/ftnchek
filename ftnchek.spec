@@ -6,6 +6,11 @@ License:	MIT
 Group:		Development/Other
 Url:		https://www.dsm.fordham.edu/~ftnchek
 Source:		ftp://ftp.dsm.fordham.edu/pub/ftnchek/%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 Buildrequires:	groff
 Buildrequires:	groff-for-man
 
